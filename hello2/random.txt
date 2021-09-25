@@ -1,0 +1,5 @@
+name = "Muneer"
+num = 7
+a = f"This is {} {}"
+
+print(a)
